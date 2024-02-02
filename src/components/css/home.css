@@ -1,0 +1,14 @@
+.home-container {
+  width: 1280px;
+  margin: 0 auto;
+  padding: 40px 0 15px 15px;
+}
+
+.hm__nav {
+  display: flex;
+  justify-content: flex-end;
+}
+.hm__nav ul {
+  display: flex;
+  gap: 20px;
+}
